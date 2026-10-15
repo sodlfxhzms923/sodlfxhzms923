@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 안녕하세요! 
 
-<!--
-**sodlfxhzms923/sodlfxhzms923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 현재 새로운 기술을 배우는 과정에 있는 학생입니다.
+* 💬 궁금한 점이 있으시다면 언제든지 연락 주세요!
+   관심분야 : 문제해결형 서비스 제작
+      일상생활의 작은 불편함을 해소하거나 실생활에 직접 도움이 되는 웹 서비스를 기획하고 구현하는 데 관심이 있습니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 학습 목표 : 
+* 웹 개발 전반에 대한 이해 (풀스택 지향):
+  * HTML/CSS/JavaScript를 활용한 직관적인 프론트엔드 화면 구현과 Node.js 기반의 백엔드 서버 연동 학습
+* 꾸준한 기록과 협업능력 향상:
+  * Git과 GitHub를 활용해 일일 커밋(잔디) 습관을 들이고, 오픈소스 및 팀 프로젝트 협업 방식 익히기
+* 문제 해결 역량 강화: 
+  * 알고리즘 문제 풀이를 통해 논리적인 사고력을 키우고, 일상생활의 불편함을 해결하는 실용적인 웹 서비스 직접 만들어보기
+---
